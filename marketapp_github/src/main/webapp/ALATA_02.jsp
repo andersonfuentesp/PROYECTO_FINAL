@@ -1,10 +1,3 @@
-<%-- 
-    Document   : ALATA_02
-    Created on : 27 jun. 2020, 10:03:27
-    Author     : Sammy Guergachi <sguergachi at gmail.com>
---%>
-
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
