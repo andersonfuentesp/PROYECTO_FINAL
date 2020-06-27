@@ -1,10 +1,3 @@
-<%-- 
-    Document   : Jean_Alata
-    Created on : 27 jun. 2020, 09:55:22
-    Author     : Sammy Guergachi <sguergachi at gmail.com>
---%>
-
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
