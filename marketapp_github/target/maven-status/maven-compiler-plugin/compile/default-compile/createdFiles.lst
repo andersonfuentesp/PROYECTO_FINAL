@@ -1,0 +1,10 @@
+servlets\RegistroClientes.class
+models\Consultas.class
+servlets\AddCart.class
+controllers\ControladorProducto.class
+classes\Producto.class
+models\ConexionBD.class
+servlets\InicioSesion.class
+models\ModeloProducto.class
+classes\Articulo.class
+servlets\logout.class
